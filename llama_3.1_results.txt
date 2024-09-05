@@ -1,0 +1,17 @@
+["tomatoes", "oatmeal", "mozzarella", "eggs", "beans"] ->:  title: Baked Tomatoes
+ingredients: ["2 c. tomatoes", "1/2 c. oatmeal", "1/2 c. mozzarella cheese", "2 eggs", "1 can beans"]
+directions: ["Cut tomatoes in half.", "Mix oatmeal, cheese and eggs.", "Fill tomatoes with mixture.", "Bake at 350\u00b0 for 30 minutes.", "Top with beans and bake 10 minutes more."]
+
+------------------------------------------------------------------------
+
+[" breast", " diced_tom", " grape tomato", " turkey", " onion"] ->:  title: Turkey Salad
+ingredients: ["1/2 c. diced turkey", "1/2 c. diced tomato", "1/2 c. grape tomato", "1/2 c. turkey", "1/2 c. onion"]
+directions: ["Mix all ingredients together.", "Serve on lettuce or in a pita bread."]
+
+------------------------------------------------------------------------
+
+[" chicken", " meat", " noodles", " nutty bars", " oatmeal"] ->:  title: Chicken Noodle Casserole
+ingredients: ["1 can cream of chicken soup", "1 can cream of celery soup", "1 can cream of mushroom soup", "1 can chicken", "1 can meat", "1 pkg. noodles", "1 pkg. nutty bars", "1 pkg. oatmeal"]
+directions: ["Mix all ingredients together.", "Put in casserole dish.", "Bake at 350\u00b0 for 1 hour."]
+
+------------------------------------------------------------------------
